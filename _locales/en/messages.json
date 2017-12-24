@@ -1,0 +1,13 @@
+{
+
+   "ExtensionName": {
+    "message": "i-parcel Track and Trace",
+    "description": "Name of the extension"
+    }, 
+ 
+   "ExtensionDescription": {
+    "message": "Track and trace packages sent with i-parcel (by UPS)",
+    "description": "Description of the extension"
+    }
+    
+}
