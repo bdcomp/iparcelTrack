@@ -6,12 +6,12 @@ To help explain the issue, please include the following:
  * Firefox version:
  * i-parcel Track and Trace version:
 
-#### What did you do? (steps to reproduce)
+#### What did you do? (steps to reproduce):
 [Include webpage URL, if applicable]
 
 
-#### What happened? (actual results)
+#### What happened? (actual results):
 [Include a screenshot, if applicable/possible]
 
 
-#### What should have happened? (expected results)
+#### What should have happened? (expected results):
