@@ -3,7 +3,7 @@
     "manifest_version": 2,
     "name": "__MSG_ExtensionName__",
     "description": "__MSG_ExtensionDescription__",
-    "version": "0.2",
+    "version": "0.3",
 
     "background": {
     "scripts": ["background.js"]
@@ -21,9 +21,7 @@
     "permissions": [
     "contextMenus",
     "tabs",
-    "activeTab",
-    "http://*/*",
-    "https://*/*"
+    "activeTab"
     ],
     
     "default_locale": "en"
