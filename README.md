@@ -1,6 +1,8 @@
 # i-parcel Track and Trace Firefox Add-on
 Track and trace packages sent with i-parcel (an UPS company).
 
+![Screenshot](./Screenshot.jpg)
+
 # Installation:
 https://addons.mozilla.org/firefox/addon/i-parcel-track-and-trace/
 
